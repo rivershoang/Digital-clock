@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at debouncer.sv(15): object "COUNTER_MAX" differs only in case from object "counter_max" in the same scope
